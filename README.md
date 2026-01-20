@@ -34,9 +34,6 @@ Exemplos de itens:
 📁 desafio-tags-html5
 └── index.html
 
-yaml
-Copiar código
-
 ## 🚀 Como Executar
 
 1. Baixe ou clone este repositório  
