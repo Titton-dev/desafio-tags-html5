@@ -29,11 +29,6 @@ Exemplos de itens:
 - Listas ordenadas (`<ol>`)
 - Listas não ordenadas (`<ul>`)
 
-## 📂 Estrutura do Projeto
-
-📁 desafio-tags-html5
-└── index.html
-
 ## 🚀 Como Executar
 
 1. Baixe ou clone este repositório  
